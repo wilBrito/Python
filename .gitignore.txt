@@ -1,1 +1,2 @@
 .metadata
+Project_01/.idea
