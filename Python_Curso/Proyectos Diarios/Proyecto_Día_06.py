@@ -59,6 +59,10 @@ def leer_receta(categoria_seleccionada,receta_seleccionada):
     archivo = open(path, 'r')
     print(archivo.read())
     archivo.close()
+
+
+
+
 def programa_recetas():
     opc = 0
     while opc <= 0 or opc > 6:
